@@ -18,12 +18,14 @@ Shield Insurance is a customer-focused insurance provider operating across major
 
 ---
 
+![Texte Alternatif](Home Page.png)
+
 ## 📸 Dashboard Pages & Screenshots
 
 ### 1. General View
 *A complete business snapshot showing total revenue ($989M), customers (26.8K), and monthly trends.*
 
-*(Insert your screenshot here)*
+![Texte Alternatif](General View.png)
 
 ### 2. Sales Mode Analysis
 *A channel performance view comparing Offline-Agents vs. Digital (Online-App) acquisition.*

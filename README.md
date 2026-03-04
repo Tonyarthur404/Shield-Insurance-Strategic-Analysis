@@ -18,23 +18,23 @@ Shield Insurance is a customer-focused insurance provider operating across major
 
 ---
 
-![Texte Alternatif](Home Page.png)
+![Home Page](Screenshot/home_page.png)
 
 ## 📸 Dashboard Pages & Screenshots
 
 ### 1. General View
 *A complete business snapshot showing total revenue ($989M), customers (26.8K), and monthly trends.*
 
-![Texte Alternatif](General View.png)
+![General View](Screenshot/general_view.png)
 
 ### 2. Sales Mode Analysis
 *A channel performance view comparing Offline-Agents vs. Digital (Online-App) acquisition.*
-*(Insert your screenshot here)*
+![Sales Mode_Analysis](Screenshot/sales_mode_analysis.png)
 
 ### 3. Age Group Analysis
 *Demographic analysis showing revenue distribution and expected settlements ($176M for the 31-40 group).*
 
-*(Insert your screenshot here)*
+![Age Group_Analysis](Screenshot/age_group_analysis.png)
 
 ---
 
@@ -61,7 +61,7 @@ Shield Insurance is a customer-focused insurance provider operating across major
 * **Power BI** (Data Visualization & Reporting)
 * **Power Query** (Data transformation & Cleaning)
 * **Microsoft PowerPoint** (Professional Presentation & Storytelling)
-* **OBS Studio** (Video Recording)
+* **Microsoft PowerPoint** (Video Recording)
 
 ---
 

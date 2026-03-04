@@ -2,7 +2,7 @@
 
 A comprehensive business intelligence project developed during the **AtliQ Technologies Virtual Internship**. This dashboard transforms 6 months of raw insurance data into actionable executive insights to drive revenue growth and digital transformation.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Video_Presentation-blue?style=for-the-badge&logo=linkedin)](TON_LIEN_LINKEDIN_ICI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Video_Presentation-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/posts/tony-arthur-kenmoe-kembou-8b86471ba_codebasicsvirtualinternship-dataanalytics-activity-7435019099866513408-XCy2?utm_source=share&utm_medium=member_desktop&rcm=ACoAADL_IEwBb7Uhz6HlIoEnuM3TVK_bfpnu2i8)
 [![Power BI](https://img.shields.io/badge/Power_BI-Interactive_Report-yellow?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiYWM0ZDgyMjAtNWRkYS00M2VmLWEzYWMtMjE5YjFkZTJlZjU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=7828aae552edece78400)
 
 ---

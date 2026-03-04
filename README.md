@@ -1,75 +1,75 @@
-# 🛡️ Shield Insurance: Business Performance Dashboard
+# 🛡️ Shield Insurance: Strategic Performance & Risk Analysis
 
-A complete business analysis project built as part of the **AtliQ Technologies Virtual Internship (Codebasics DA Bootcamp)**. 
+A comprehensive business intelligence project developed during the **AtliQ Technologies Virtual Internship**. This dashboard transforms 6 months of raw insurance data into actionable executive insights to drive revenue growth and digital transformation.
 
-The project focuses on transforming 6 months of business data into clear, interactive insights across revenue, customers, cities, sales modes, and age groups.
-
-🔗 **[LinkedIn Presentation & Video](#)** *(Insert your LinkedIn post link here after publishing)*
-
----
-
-## 📁 Project Overview
-Shield Insurance is a customer-focused insurance provider operating across major Indian metro cities. This analysis focused on:
-* **Overall business performance** (Revenue & Customer trends).
-* **City-wise insights** (Geographical concentration).
-* **Sales mode performance** (Offline vs. Digital).
-* **Age group behaviour** (Risk vs. Profitability).
-* **Growth opportunities & risks identification**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Video_Presentation-blue?style=for-the-badge&logo=linkedin)](TON_LIEN_LINKEDIN_ICI)
+[![Power BI](https://img.shields.io/badge/Power_BI-Interactive_Report-yellow?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiYWM0ZDgyMjAtNWRkYS00M2VmLWEzYWMtMjE5YjFkZTJlZjU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=7828aae552edece78400)
 
 ---
 
+## 📌 Project Objectives
+
+Acting as a Strategic Data Analyst, I was tasked with exploring hospital admissions, policy demographics, and billing patterns to solve key business challenges:
+* **Revenue Drivers:** Identify why March 2023 peaked and how to replicate that success.
+* **Geographical Insights:** Analyze why Delhi NCR and Mumbai contribute ~65% of the total revenue.
+* **Risk Assessment:** Evaluate the settlement patterns of the 31-40 age group ($176M in expected claims).
+* **Channel Optimization:** Compare high-commission Offline Agents against high-growth Digital App/Online modes.
+
+---
+
+## 📊 Dashboard Architecture
+
+| Page | Description | Key KPIs |
+| :--- | :--- | :--- |
+| **🏠 Home** | Professional navigation hub with easy access to all modules. | Navigation Buttons |
+| **📊 General View** | High-level performance overview for executive stakeholders. | Total Revenue, Total Customers |
+| **📈 Sales Mode** | Breakdown of performance by acquisition channel. | Sales Mode Split, Growth % |
+| **👥 Age Group** | Deep dive into demographic risks and customer segments. | Settlement vs Premium |
+
+---
+
+## 📸 Dashboard Visuals
+
+### 🏠 Home Page & Navigation
 ![Home Page](Screenshot/home_page.png)
 
-## 📸 Dashboard Pages & Screenshots
-
-### 1. General View
-*A complete business snapshot showing total revenue ($989M), customers (26.8K), and monthly trends.*
-
+### 📊 1. General Business View
+*Focus on overall trends and city-wise performance.*
 ![General View](Screenshot/general_view.png)
 
-### 2. Sales Mode Analysis
-*A channel performance view comparing Offline-Agents vs. Digital (Online-App) acquisition.*
+### 📈 2. Sales Mode & Channel Analysis
+*Evaluating the shift from Offline to Digital channels.*
 ![Sales Mode_Analysis](Screenshot/sales_mode_analysis.png)
 
-### 3. Age Group Analysis
-*Demographic analysis showing revenue distribution and expected settlements ($176M for the 31-40 group).*
-
+### 👥 3. Age Group & Risk Analysis
+*Deep dive into demographic profitability and settlement costs.*
 ![Age Group_Analysis](Screenshot/age_group_analysis.png)
 
 ---
 
-## 🔍 Key Insights
-* **Peak Performance:** **March 2023** was the strongest month for both revenue and customer acquisition.
-* **Market Dominance:** **Delhi NCR** is the primary engine, followed by Mumbai (together driving ~65% of revenue).
-* **The Adult Paradox:** The **31–40 age group** is the top revenue driver ($284M) but also carries the highest settlement costs ($176M).
-* **Digital Shift:** Digital channels show strong growth potential, offering a key lever to reduce commission costs.
-* **The Senior Goldmine:** **65+ customers** represent the healthiest segment with an optimal claim-to-premium ratio.
-* **Future Growth:** **Indore** and the **18–30 age group** show the highest long-term growth potential for digital products.
+## 🔍 Strategic Key Insights
+
+* **The Growth Engine:** Delhi NCR & Mumbai are the primary revenue hubs, suggesting a need for regional diversification in Tier-2 cities.
+* **The Settlement Peak:** The **31–40 age segment** is the highest revenue contributor ($284M) but also carries the highest settlement risk ($176M).
+* **Digital Transformation:** Digital channels (App/Online) show a **30% contribution**, offering a massive opportunity to reduce agent commission costs.
+* **Market Seasonality:** Performance peaked in **March 2023**, indicating high seasonal demand for policy renewals.
 
 ---
 
 ## 🚀 Strategic Recommendations
-1. **Price Adjustment:** Adjust premiums for the 31-40 segment to cover high settlement expenses.
-2. **Digital Migration:** Shift the 18-30 segment toward the **Online-App** to minimize management costs.
-3. **Tier-2 Expansion:** Replicate success in emerging cities like **Surat and Lucknow** to dilute concentration risk.
-4. **Direct Sales:** Push "Direct" sales for simple products to eliminate intermediary commissions.
-5. **Senior Loyalty:** Launch specific retention programs for the 65+ segment to balance the overall risk profile.
+
+1. **Dynamic Pricing:** Adjust premiums for the 31-40 segment to better balance high settlement outflows.
+2. **Digital Migration:** Incentivize the 18-30 segment to use the **Online App** for lower acquisition costs.
+3. **Regional Expansion:** Replicate the Delhi/Mumbai success model in emerging markets like **Surat and Lucknow**.
+4. **Direct Sales Push:** Develop "Direct-to-Customer" simple products to bypass intermediary commissions.
 
 ---
 
-## 🛠️ Tech Stack
-* **Power BI** (Data Visualization & Reporting)
-* **Power Query** (Data transformation & Cleaning)
-* **Microsoft PowerPoint** (Professional Presentation & Storytelling)
-* **Microsoft PowerPoint** (Video Recording)
-
----
-
-## 📚 Learnings
-* Converting business needs into visual insights for executive decision-making.
-* Designing dashboards aligned with stakeholder expectations.
-* Extracting meaningful patterns from raw datasets.
-* Communicating technical analytics through structured business storytelling.
+## 🛠️ Tech Stack & Skills
+* **Power BI Desktop:** Advanced Data Modeling & Visualization.
+* **Power Query:** ETL processes (Cleaning & Transforming data).
+* **DAX:** Complex measures for growth rates and business KPIs.
+* **Storytelling:** Converting technical metrics into strategic business recommendations.
 
 ---
 *Internship Project for Codebasics - Mentors: @Dhaval Patel & @Hemanand Vadivel*
